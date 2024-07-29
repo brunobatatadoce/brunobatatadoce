@@ -3,6 +3,7 @@
  Meu nome é Bruno Otavio
 
 -Estou estudando na [Alura](https://WWW.alura.com.br)
+
 -Estou me desenvolvendo na linguagem JavaScript
 
 -Utilizo desse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
